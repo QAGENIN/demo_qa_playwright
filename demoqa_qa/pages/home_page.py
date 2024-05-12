@@ -4,5 +4,5 @@ from demoqa_qa.pages.base_page import BasePage
 
 
 class HomePage(BasePage):
-    text_box_title = '.text-center'
+    page_title = '.text-center'
 
